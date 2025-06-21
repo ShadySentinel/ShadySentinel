@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shady
+- 👋 Hi, I’m @Shadi
 - 👀 I’m interested in everything-technical
-- 🌱 I’m currently learning C.S
+- 🌱 I’m currently majoring in C.S
 - ⚡ Fun fact: only 10% of the world's currency exists in a physical form
 
 <!---
