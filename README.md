@@ -1,5 +1,10 @@
 ## Hey 👋, I'm Shadi Ibrahim!
-https://raw.githubusercontent.com/ShadySentinel/main/ascii-art(3).png
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShadySentinel/ShadySentinel/main/ascii-art(30.png">
+    <img src="https://raw.githubusercontent.com/ShadySentinel/ShadySentinel/main/ascii-art(30.png">
+  </picture>
+
+
 ![How many people have stalked me so far =>](https://komarev.com/ghpvc/?username=ShadySentinel)
 
 <div align="left"></div>
