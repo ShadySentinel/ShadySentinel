@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Shadi Ibrahim!
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShadySentinel/ShadySentinel/main/ascii-art(30.png">
+    <source srcset="https://raw.githubusercontent.com/ShadySentinel/ShadySentinel/main/ascii-art(30.png">
     <img src="https://raw.githubusercontent.com/ShadySentinel/ShadySentinel/main/ascii-art(30.png">
   </picture>
 
