@@ -1,4 +1,5 @@
 ## Hey 👋, I'm Shadi Ibrahim!
+https://raw.githubusercontent.com/ShadySentinel/main/ascii-art (3).png
 ![How many people have stalked me so far =>](https://komarev.com/ghpvc/?username=ShadySentinel)
 
 <div align="left"></div>
